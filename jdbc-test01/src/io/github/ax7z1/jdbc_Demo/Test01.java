@@ -3,6 +3,7 @@ package io.github.ax7z1.jdbc_Demo;
 import java.sql.*;
 /*
     JDBC编程六步
+    JDBC编程六步 Gitee test
  */
 public class Test01 {
     public static void main(String[] args) {
