@@ -1,13 +1,6 @@
 package io.github.ax7z1.jdbc_Demo;
 
 import java.sql.*;
-// 测试git
-// 测试git  33
-// hello git 4
-// master test
-// hot-fix test!
-//push test
-// pull test !!!
 /*
     JDBC编程六步
  */
